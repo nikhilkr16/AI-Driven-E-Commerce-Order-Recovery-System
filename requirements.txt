@@ -10,10 +10,10 @@ plotly
 psycopg2-binary
 sqlalchemy
 python-multipart
-Jinja2
-smtplib
 requests
 seaborn
+smtplib
 faker
 schedule
 python-dotenv
+Jinja2
