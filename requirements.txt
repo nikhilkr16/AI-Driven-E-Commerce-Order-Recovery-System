@@ -11,9 +11,9 @@ psycopg2-binary
 sqlalchemy
 python-multipart
 Jinja2
-python-dotenv
 smtplib
 requests
 seaborn
 faker
 schedule
+python-dotenv
