@@ -12,7 +12,6 @@ sqlalchemy
 python-multipart
 requests
 seaborn
-smtplib
 faker
 schedule
 python-dotenv
