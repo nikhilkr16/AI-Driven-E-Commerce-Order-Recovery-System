@@ -12,8 +12,8 @@ sqlalchemy
 python-multipart
 Jinja2
 python-dotenv
-schedule
 smtplib
 requests
 seaborn
 faker
+schedule
