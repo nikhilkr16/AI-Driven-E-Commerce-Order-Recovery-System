@@ -1,9 +1,10 @@
-fastapi
-uvicorn
 streamlit
 pandas
 numpy
 scikit-learn
+matplotlib
+fastapi
+uvicorn
 xgboost
 plotly
 psycopg2-binary
@@ -15,5 +16,4 @@ schedule
 smtplib
 requests
 seaborn
-matplotlib
 faker
